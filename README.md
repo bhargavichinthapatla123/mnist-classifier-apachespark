@@ -2,7 +2,6 @@
 
 PROBLEM STATEMENT
     • Form an apache cluster on spark connecting 2 or more systems
-    • Run wordcount program on cluster
     • Run a classification algorithm on cluster
 
 
